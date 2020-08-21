@@ -16,10 +16,10 @@ Olle Lögdahl, 21 August 2020
 
 ## Installation / Getting started
 - Download and install through your package manager
-> `sudo pacman -S stg2c`
-> `sudo apt-get install stg2c`
+`sudo pacman -S stg2c`
+`sudo apt-get install stg2c`
 - Clone git repo and build yourself
-> `git clone https://github.com/ollelogdahl/ConsoleGameEngine.git`
+`git clone https://github.com/ollelogdahl/ConsoleGameEngine.git`
 
 <br />
 
