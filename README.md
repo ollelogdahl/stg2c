@@ -31,8 +31,11 @@ stg2c -o <output> <input>
 ## Usage
 
 stg2c works by parsing an existing file, and generating code for all instructions within ```/*!stg2c ... */``` comments.
-
 For a complete list of commands, see ```stg2c help```.
+
+## Explanation
+
+blahblahblah
 
 ## Documentation
 
