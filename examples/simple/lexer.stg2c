@@ -1,0 +1,28 @@
+#include "tokens.h"
+
+#define STGTYPE char
+
+token get_next_token() {
+    token t;
+    t.type = get_next_token_type();
+    t.val = STGTOK;
+    t.line_pos = STGLINE;
+    t.char_pos = STGCHAR;
+}
+
+enum TOKEN_TYPE get_next_token_type() {
+/*!stg2c
+ * // All code inside this will be either copied or parsed
+ *
+ * shorts:
+ * num = []
+ *
+ * rules:
+ *  \000        { return END; }
+ *  num+        { return NUM; }
+ *  +           { return ADD; }
+ *  -           { return SUB; }
+ *  *           { return MULT; }
+ *
+ */
+}
