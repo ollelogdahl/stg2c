@@ -4,8 +4,8 @@
      and simple lexer generator.</p><br>
 
 <!-- Add badges here -->
-![licence](https://img.shields.io/github/license/ollelogdahl/ConsoleGameEngine)
-![issues](https://img.shields.io/github/issues-raw/ollelogdahl/ConsoleGameEngine)
+![licence](https://img.shields.io/github/license/ollelogdahl/stg2c)
+![issues](https://img.shields.io/github/issues-raw/ollelogdahl/stg2c)
 
 </div>
 <div align="right">
