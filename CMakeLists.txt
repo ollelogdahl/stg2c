@@ -3,8 +3,4 @@ project(stg2c)
 
 set(CMAKE_C_STANDARD 99)
 
-include_directories(
-        "${CMAKE_SOURCE_DIR}/src"
-)
-
-add_executable(stg2c)
+add_executable(stg2c src/main.c)
