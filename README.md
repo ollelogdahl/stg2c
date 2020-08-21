@@ -8,6 +8,9 @@
 ![issues](https://img.shields.io/github/issues-raw/ollelogdahl/ConsoleGameEngine)
 
 </div>
+<div align="right">
+Olle Lögdahl, 21 August 2020
+</div>
 
 
 
